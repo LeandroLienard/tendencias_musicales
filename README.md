@@ -1,5 +1,5 @@
 # java-base-project
- ![Screenshot 2021-04-10 03-49-00](Tendencias musicales.pdf
+ ![Screenshot 2021-04-10 03-49-00](Tendencias musicales.pdf)
 
 
 Esta es una plantilla de proyecto diseñada para: 
