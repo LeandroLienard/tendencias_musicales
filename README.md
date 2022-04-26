@@ -1,5 +1,5 @@
 # java-base-project
- ![Screenshot 2021-04-10 03-49-00](Tendencias musicales.pdf)
+ ![Screenshot 2021-04-10 03-49-00](https://github.com/LeandroLienard/tendencias_musicales/blob/0f0defbf94e60ab22713f6c65e238aa4046d11a1/Diagrama%20de%20clases.pdf)
 
 
 Esta es una plantilla de proyecto diseñada para: 
