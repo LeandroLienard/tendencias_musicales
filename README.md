@@ -1,9 +1,11 @@
 # java-base-project
- ![Screenshot 2021-04-10 03-49-00](https://github.com/LeandroLienard/tendencias_musicales/blob/0f0defbf94e60ab22713f6c65e238aa4046d11a1/Diagrama%20de%20clases.pdf)
+Enunciado
+ ![Enunciado](https://github.com/LeandroLienard/tendencias_musicales/blob/5e73f748cf485b0ba893b884d5626fc3e886baf2/enunciado.png)
 
 
-Esta es una plantilla de proyecto diseñada para: 
 
+Diagrma de clases
+![Diagrama](https://github.com/LeandroLienard/tendencias_musicales/blob/5e73f748cf485b0ba893b884d5626fc3e886baf2/diagrama_de_clases.png)
 * Java 8. :warning: Si bien el proyecto no lo limita explícitamente, el comando `mvn verify` no funcionará con versiones mas modernas de Java. 
 * JUnit 5. :warning: La versión 5 de JUnit es la más nueva del framework y presenta algunas diferencias respecto a la versión "clásica" (JUnit 4). Para mayores detalles, ver: 
   *  [Apunte de herramientas](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ/edit#heading=h.dnwhvummp994)
